@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D405B</color>
+    <color name="colorPrimaryDark">#3D405B</color>
+    <color name="colorAccent">#5F797B</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorButtonBackground">#3D405B</color>
+
+    <color name="colorWindowBackground">#FFFFFF</color>
+    <color name="colorButtonPressed">#5F797B</color>
+    <color name="colorControlHighlight">#AAB2BD</color>
+
+    <color name="colorRowOdd">#e07a5f</color>
+    <color name="colorRowEven">#f2cc8f</color>
+    <color name="colorRowOne">#3d405b</color>
+
+</resources>

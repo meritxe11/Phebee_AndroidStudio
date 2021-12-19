@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Phebee</string>
+    <string name="plogin_username">username</string>
+    <string name="plogin_password">password</string>
+    <string name="plogin_host">host</string>
+    <string name="plogin_button_login">LOGIN</string>
+    <string name="plogin_ActionBar_save">save</string>
+    <string name="plogin_ActionBar_fill">fill</string>
+    <string name="pmenu_Button_logout">LOGOUT</string>
+    <string name="pmenu_Button_send">SEND</string>
+    <string name="pmenu_et_options">options</string>
+</resources>
