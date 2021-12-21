@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
         String user;
         try {
             user = json.getJSONArray("students").getJSONObject(0).getString("name");
-            System.out.println();
 
             if(user.equals(username)){
                 Intent i = new Intent(this, Menu_page.class);
